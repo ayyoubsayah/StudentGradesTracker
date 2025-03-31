@@ -23,7 +23,7 @@
 ## Usage
 1. Run the script using Python:
 ```sh
- python StudentGradesTracker V1.0.py
+ python StudentGradesTracker.py
 ```
 2. Follow the prompts to enter student names and their grades.
 3. View the list of students and their grade averages.
